@@ -1,2 +1,0 @@
-Search usage:  https://developers.google.com/places/web-service/search
-Search string: https://maps.googleapis.com/maps/api/place/textsearch/xml?query=bitcoin+in+Texas&type=atm&key=[key]

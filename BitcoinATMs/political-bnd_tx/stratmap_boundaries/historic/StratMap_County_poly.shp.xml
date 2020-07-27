@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<pubdate>1995</pubdate>
+				<pubtime>Unknown</pubtime>
+				<title Sync="TRUE">StratMapv2_County_poly</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<serinfo>
+					<sername>Boundary Data</sername>
+					<issue>Version 1</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>TNRIS</pubplace>
+					<publish>State of Texas</publish>
+				</pubinfo>
+				<onlink Sync="TRUE">\\tnrisfs\vector\Boundaries\StratMapv2\shp\StratMapv2_County_poly.shp</onlink>
+				<lworkcit>
+					<citeinfo>
+						<origin>TNRIS</origin>
+						<pubdate>1995</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>Boundary</title>
+						<edition>1</edition>
+						<geoform>vector digital data</geoform>
+						<serinfo>
+							<sername>Boundary</sername>
+							<issue>1</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>TNRIS</pubplace>
+							<publish>State of Texas</publish>
+						</pubinfo>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">StratMapv2_County_poly</ftname><origin>TNRIS</origin></citeinfo>
+		</citation>
+		<descript>
+			<abstract>StratMap Boundaries show political jurisdictions including city, county, state, national boundaries, and cultural boundaries i.e., airports, universities, wildlife refuges,  and military bases. StratMap Boundaries are useful in right-of-way determination, highway planning  and maintenance, real estate, public services, jurisdiction  maintenance, and numerous administrative  assignments.</abstract>
+			<purpose>The Texas Strategic Mapping Program, known as StratMap, is a multi-year, cost-sharing program that has built mission-critical GIS base data statewide. The federal government and the State of Texas are contributing up to 75% of the development costs of the data, making StratMap a great opportunity for Texans to develop low cost, accurate, and up-to-date GIS base data for their part of the state. It is StratMaps goal to create the best integrated statewide transportation layer possible.  The transportation layer is designed to be a transportation layer that can be integrated into many GIS applications.</purpose>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>January 2004</begdate>
+					<enddate>December 2004</enddate>
+					<begtime>12:01am</begtime><endtime>11:59 pm</endtime></rngdates>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-106.646220</westbc>
+				<eastbc Sync="TRUE">-93.507800</eastbc>
+				<northbc Sync="TRUE">36.500380</northbc>
+				<southbc Sync="TRUE">25.837220</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-106.646220</leftbc><rightbc Sync="TRUE">-93.507800</rightbc><bottombc Sync="TRUE">25.837220</bottombc><topbc Sync="TRUE">36.500380</topbc></lboundng></spdom>
+		<keywords>
+			<place>
+				<placekey>Texas</placekey></place>
+			<theme><themekey>Boundary</themekey><themekt>County</themekt></theme><theme><themekt>TxDOT Districts</themekt></theme><theme><themekt>Council of Governments</themekt></theme></keywords>
+		<accconst>Trans data is organized by county in both ESRI 9.x Personal GeoDatabase and Shapefile formats.  The data is available for free on the internet or can be purchased on CD.</accconst>
+		<useconst>StratMap does not warrant this data for any particular use and is not responsible for any damages resulting from the use of the data.  Users of these files should be aware that (1) StratMap data are not authoritative representations of boundaries, (2) StratMap boundary lines are subject to change and corrections, (3) StratMap boundaries was generated from the best available data which is subject to change, and (4) StratMap is updating the boundary data and has a process for collecting and noting boundary changes.  Contact StratMap for more details.  Acknowledgement of the StratMap program appreciated in products derived and used from the data.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>TNRIS</cntorg>
+					<cntper>StratMap</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<city>Austin</city>
+					<state>Texas</state>
+					<postal>78701</postal>
+					<country>USA</country>
+					<address>P.O. BOX 13231</address></cntaddr>
+				<hours>8:00-5:00</hours>
+				<cntvoice>512-463-8337</cntvoice><cntfax>512-463-7274</cntfax><cntemail>stratmap@tnris.state.tx.us</cntemail></cntinfo>
+		</ptcontac>
+		<browse></browse>
+		<native Sync="TRUE">Microsoft Windows 2000 Version 5.2 (Build 3790) Service Pack 2; ESRI ArcCatalog 9.2.5.1450</native>
+		<crossref>
+			<citeinfo>
+				<origin>TNRIS</origin>
+				<pubdate>1995</pubdate>
+				<pubtime>Unknown</pubtime>
+				<title>Boundaries</title>
+				<edition>1</edition>
+				<geoform>vector digital data</geoform>
+				<serinfo>
+					<sername>Boundaries</sername>
+					<issue>1</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>State of Texas</pubplace>
+					<publish>TNRIS</publish>
+				</pubinfo>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">Shapefile</natvform><secinfo><secsys>None</secsys><secclass>Unclassified</secclass><sechandl>None</sechandl></secinfo></idinfo>
+	<dataqual>
+		<posacc>
+			<horizpa>
+				<horizpar>Trans features digitized to much 1995-1997 State of Texas Aerial Photography.  Hornizontal positional accuracy is +/- 4 meters.  The boundary layer was visually inspected and compared to source maps by a second technician to ensure horizontal position accuracy met standards.  Accuracy is limited to the validity of available data.</horizpar>
+				<qhorizpa>
+					<horizpav>+/- 4 meters</horizpav>
+					<horizpae>Data photorevised to the DOQQs: +/-4 meters.  Data revised to the DRGs: +/- 4 meters. The accuracy of the DOQQs is better than the DRGs.</horizpae></qhorizpa>
+			</horizpa>
+			<vertacc>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>TNRIS</origin>
+						<pubdate>1995</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>Boundary</title>
+						<edition>1</edition>
+						<geoform>vector digital data</geoform>
+						<serinfo>
+							<sername>Boundary</sername>
+							<issue>1</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>State of Texas</pubplace>
+							<publish>TNRIS</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1995</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Texas Department of Transportation, Transporation Planning and Programming</origin>
+						<pubdate>1995</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>Boundary</title>
+						<edition>1</edition>
+						<geoform>vector digital data</geoform>
+						<serinfo>
+							<sername>Boundary</sername>
+							<issue>1</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>State of Texas</pubplace>
+							<publish>Department of Transportation</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+			</srcinfo>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>D:\DOCUME~1\rmitche\LOCALS~1\Temp\xml4.tmp</srcused>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\rmitchel\LOCALS~1\Temp\xml46.tmp</srcused><date Sync="TRUE">20050728</date><time Sync="TRUE">08450600</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">Server=Huan; Service=5151; Database=IS_PG; User=rmitchell; Version=sde.DEFAULT</srcused><date Sync="TRUE">20050728</date><time Sync="TRUE">09313500</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">\\TNRISFS\InProgress\Vector\Boundaries\StratMapv2\pgdb\StratMap_Boundaries_v150.mdb</srcused><date Sync="TRUE">20060918</date><time Sync="TRUE">10415800</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="StratMapv2_County_poly">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">0</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Label point</sdtstype>
+				<ptvctcnt>1056</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>1055</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Node, planar graph</sdtstype>
+				<ptvctcnt>2089</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Point</sdtstype>
+				<ptvctcnt>4</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Label point</sdtstype>
+				<ptvctcnt>0</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>273</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>255</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>31</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>26</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="StratMapv2_County_poly"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres Sync="TRUE">0.000000</latres>
+				<longres Sync="TRUE">0.000000</longres>
+				<geogunit Sync="TRUE">Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn></cordsysn></horizsys>
+		<vertdef>
+			<altsys>
+				<altres Sync="TRUE">1.000000</altres>
+				<altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="StratMapv2_County_poly">
+			<enttyp>
+				<enttypl Sync="TRUE">StratMapv2_County_poly</enttypl>
+				<enttypd>GeoDataBase Feature Class</enttypd>
+				<enttypds>TNRIS</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">SOURCE</attrlabl><attalias Sync="TRUE">SOURCE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>Source of Data</attrdef><attrdefs>TNRIS</attrdefs></attr><attr><attrlabl Sync="TRUE">NAME</attrlabl><attalias Sync="TRUE">NAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>Name</attrdef><attrdefs>TNRIS</attrdefs></attr><attr><attrlabl Sync="TRUE">COG_ABBR</attrlabl><attalias Sync="TRUE">COG_ABBR</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth><attrdef>Council of Governments Abbr</attrdef><attrdefs>TARC</attrdefs></attr><attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">10</attwidth><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">35</attwidth></attr>
+			<attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">LOCAL_ID</attrlabl><attalias Sync="TRUE">LOCAL_ID</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><attrdef>Local Unique Number</attrdef><attrdefs>Local </attrdefs></attr><attr><attrlabl Sync="TRUE">TXDOT_ABBR</attrlabl><attalias Sync="TRUE">TXDOT_ABBR</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">5</attwidth><attrdef>TxDOT District Abbr</attrdef><attrdefs>TxDOT</attrdefs></attr><attr><attrlabl Sync="TRUE">STRATMAP_I</attrlabl><attalias Sync="TRUE">STRATMAP_I</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">8</attwidth></attr><attr><attrlabl Sync="TRUE">FIPS_CODE</attrlabl><attalias Sync="TRUE">FIPS_CODE</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth><attrdef>FIPS Code</attrdef><attrdefs>US Census Bureau</attrdefs></attr><attr><attrlabl Sync="TRUE">DATE_CREAT</attrlabl><attalias Sync="TRUE">DATE_CREAT</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth></attr><attr><attrlabl Sync="TRUE">DATE_MODIF</attrlabl><attalias Sync="TRUE">DATE_MODIF</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth></attr><attr><attrlabl Sync="TRUE">DATE_RETIR</attrlabl><attalias Sync="TRUE">DATE_RETIR</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">SHAPE_Leng</attrlabl><attalias Sync="TRUE">SHAPE_Leng</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">SHAPE_Area</attrlabl><attalias Sync="TRUE">SHAPE_Area</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">19</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Texas Department of Transportation</cntorg>
+					<cntper>Information Systems Division - GIS</cntper>
+				</cntorgp>
+				<cntvoice>512-465-3618</cntvoice>
+				<cntfax>512-465-7668</cntfax>
+				<cntemail>ISD-GIS-Support@dot.state.tx.us</cntemail>
+				<hours>8:00-5:00</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>3.070</transize>
+					<dssize Sync="TRUE">0.000</dssize></digtinfo>
+			</digform>
+		</stdorder>
+		<availabl>
+			<timeinfo>
+				<rngdates>
+					<begdate>January</begdate>
+					<enddate>December</enddate>
+				</rngdates>
+			</timeinfo>
+		</availabl>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20080604</metd>
+		<metrd>20021231</metrd>
+		<metfrd>20031231</metfrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>TNRIS</cntorg>
+					<cntper>StratMap Analyst</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<city>Austin</city>
+					<state>Texas</state>
+					<postal>78701</postal>
+					<country>USA</country>
+					<address>P O Box 13231</address></cntaddr>
+				<hours>8:00-5:00</hours>
+				<cntemail>data@tnris.state.tx.us</cntemail><cntfax>512-463-7274</cntfax><cntvoice>512-463-8337</cntvoice></cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metac>This data has been prepared for internal use within the Texas Department of Transportation. Accuracy is limited to the validity of available data.</metac>
+		<metuc>This data is for mapping and planning purposes only. It is not to be used to develop any engineering products.</metuc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20060918</CreaDate><CreaTime>10415800</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20080604</SyncDate><SyncTime>10271000</SyncTime><ModDate>20080604</ModDate><ModTime>10271000</ModTime><MetaID>{CF001EAD-D92C-47BD-9AD0-06D1CFC19436}</MetaID><DataProperties><lineage><Process Name="FeatureClassToFeatureClass_1" ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20080604" Time="102713">FeatureClassToFeatureClass N:\Boundaries\StratMapv2\pgdb\Stratmapv2_County.mdb\STRATMAP_CNTY_POLY N:\Boundaries\StratMapv2\shp StratMapv2_County_poly.shp # "SOURCE SOURCE true false false 10 Text 0 0 ,First,#,N:\Boundaries\StratMapv2\pgdb\Stratmapv2_County.mdb\STRATMAP_CNTY_POLY,SOURCE,-1,-1;STRATMAP_I STRATMAP_I true true false 10 Text 0 0 ,First,#,N:\Boundaries\StratMapv2\pgdb\Stratmapv2_County.mdb\STRATMAP_CNTY_POLY,STRATMAP_ID,-1,-1;LOCAL_ID LOCAL_ID true true false 35 Text 0 0 ,First,#,N:\Boundaries\StratMapv2\pgdb\Stratmapv2_County.mdb\STRATMAP_CNTY_POLY,LOCAL_ID,-1,-1;NAME NAME true true false 50 Text 0 0 ,First,#,N:\Boundaries\StratMapv2\pgdb\Stratmapv2_County.mdb\STRATMAP_CNTY_POLY,NAME,-1,-1;FIPS_CODE FIPS_CODE true true false 5 Text 0 0 ,First,#,N:\Boundaries\StratMapv2\pgdb\Stratmapv2_County.mdb\STRATMAP_CNTY_POLY,FIPS_CODE,-1,-1;TXDOT_ABBR TXDOT_ABBR true true false 5 Text 0 0 ,First,#,N:\Boundaries\StratMapv2\pgdb\Stratmapv2_County.mdb\STRATMAP_CNTY_POLY,TXDOT_ABBR,-1,-1;COG_ABBR COG_ABBR true true false 8 Text 0 0 ,First,#,N:\Boundaries\StratMapv2\pgdb\Stratmapv2_County.mdb\STRATMAP_CNTY_POLY,COG_ABBR,-1,-1;DATE_CREAT DATE_CREAT true true false 8 Date 0 0 ,First,#,N:\Boundaries\StratMapv2\pgdb\Stratmapv2_County.mdb\STRATMAP_CNTY_POLY,DATE_CREATED,-1,-1;DATE_MODIF DATE_MODIF true true false 8 Date 0 0 ,First,#,N:\Boundaries\StratMapv2\pgdb\Stratmapv2_County.mdb\STRATMAP_CNTY_POLY,DATE_MODIFIED,-1,-1;DATE_RETIR DATE_RETIR true true false 8 Date 0 0 ,First,#,N:\Boundaries\StratMapv2\pgdb\Stratmapv2_County.mdb\STRATMAP_CNTY_POLY,DATE_RETIRED,-1,-1;SHAPE_Leng SHAPE_Length false true true 8 Double 0 0 ,First,#,N:\Boundaries\StratMapv2\pgdb\Stratmapv2_County.mdb\STRATMAP_CNTY_POLY,SHAPE_Length,-1,-1;SHAPE_Area SHAPE_Area false true true 8 Double 0 0 ,First,#,N:\Boundaries\StratMapv2\pgdb\Stratmapv2_County.mdb\STRATMAP_CNTY_POLY,SHAPE_Area,-1,-1" # N:\Boundaries\StratMapv2\shp\StratMapv2_County_poly.shp</Process></lineage></DataProperties></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.2 (Build 3790) Service Pack 2; ESRI ArcCatalog 9.2.5.1450</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">StratMapv2_County_poly</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-106.64622</westBL><eastBL Sync="TRUE">-93.5078</eastBL><northBL Sync="TRUE">36.50038</northBL><southBL Sync="TRUE">25.83722</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-106.64622</westBL><eastBL Sync="TRUE">-93.5078</eastBL><northBL Sync="TRUE">36.50038</northBL><southBL Sync="TRUE">25.83722</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\tnrisfs\vector\Boundaries\StratMapv2\shp\StratMapv2_County_poly.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.000</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">GCS_North_American_1983</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="StratMapv2_County_poly"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20080604</mdDateSt></metadata>

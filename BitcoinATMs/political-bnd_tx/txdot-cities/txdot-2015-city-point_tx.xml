@@ -1,0 +1,136 @@
+﻿<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <title>City_Points_TxDOT</title>
+        <geoform>vector digital data</geoform>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>City point locations are derived from boundary polygons of incorporated cities using the centroid of the polygon. Additional unicorporated points are also included. The data was created by the Transportation Planning and Programming Division of TxDOT in the Data Analysis, Mapping and Reporting Branch as a base layer for TxDOT's cartographic products.Date valid as of: 12/31/2015Publish Date: 2/5/2016Update Frequency: Quarterly</abstract>
+      <purpose>Point locations for incorporated and unincorporated cities.
+</purpose>
+    </descript>
+    <spdom>
+      <bounding>
+        <westbc>-106.605950</westbc>
+        <eastbc>-93.617230</eastbc>
+        <northbc>36.499112</northbc>
+        <southbc>25.899390</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Incorporated &amp; Unincorporated City</themekey>
+        <themekey>Points</themekey>
+        <themekey>Texas</themekey>
+        <themekey>TxDOT</themekey>
+      </theme>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Copyright 2015. Texas Department of Transportation. This data was produced for internal use within the Texas Department of Transportation and made available to the public for informational purposes only. Accuracy is limited to the validity of available data as of the date published.</useconst>
+    <datacred>Transportation Planning and Programming Division - Data Management Section
+512-486-5052
+TPP-GIS@txdot.gov</datacred>
+    <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.3.1.4959</native>
+  </idinfo>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>3314</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.9831528411952133e-009</latres>
+        <longres>8.9831528411952133e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>City_Points_TxDOT</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CITY_NM</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CNTY_SEAT_FLAG</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>POP_ESTMT</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CITY_FROM_DT</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CITY_TO_DT</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CREATE_USER_NM</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CREATE_DT</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>EDIT_USER_NM</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>EDIT_DT</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CITY_UNIQ_ID</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CITY_FIPS_NBR</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>created_user</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>created_date</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>last_edited_user</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>last_edited_date</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <metainfo>
+    <metd>20160303</metd>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>
